@@ -1,0 +1,1 @@
+type Counter = { count: number }
